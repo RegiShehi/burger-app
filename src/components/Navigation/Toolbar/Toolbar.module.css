@@ -4,11 +4,11 @@
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #703b09;
+    background-color: #703B09;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-inline: 0 20px;
+    padding: 0 20px;
     box-sizing: border-box;
     z-index: 90;
 }
